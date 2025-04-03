@@ -70,7 +70,8 @@ native_libraries = [
                                     "rando_has_item",
                                     "rando_has_item_async",
                                     "rando_get_items_size",
-                                    "rando_get_item"] }
+                                    "rando_get_item",                                    
+                                    ] }
 ]
 
 # Inputs to the mod tool.
